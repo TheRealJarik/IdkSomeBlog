@@ -1,0 +1,10 @@
+document.cookie = "coded=true";
+document.cookie = "owner=gdsupermoon";
+document.cookie = "html=5";
+document.cookie = "css=4/3";
+document.cookie = "javascript=javascript";
+document.cookie = "cookies=true";
+document.cookie = "cookies=true";
+document.cookie = "discord=false";
+document.cookie = "chat=false";
+document.cookie = "secret=false";

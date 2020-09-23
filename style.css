@@ -1,0 +1,50 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,400i,700);
+
+body {
+  margin: 0;
+  padding: 0;
+	font-family: ubuntu, "sans-serif";
+}
+
+body {
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+header {
+  display: flex;
+  align-items: center;
+}
+
+header img {
+  width: 50px;
+  background: white;
+  border-radius: 5px;
+  margin: 0 20px 0 40px;
+}
+
+article {
+  background: white;
+  border: 3px solid #a0a0a0;
+  width: 90%;
+  margin: 20px auto;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+hr, article .date {
+  color: #a0a0a0;
+}
