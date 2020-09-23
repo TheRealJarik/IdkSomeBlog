@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "owner": "GDSuperMoon"
+    }
+  ],
+  "main": [
+    {
+      "main": true
+    }
+  ],
+  "github": [
+    {
+      "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+    }
+  ],
+  "commands": [
+    {
+      "cookies": [
+        {
+          "coded": true,
+          "html": 5,
+          "css": "4/3",
+          "javascript": "javascript",
+          "cookies": true,
+          "discord": false,
+          "chat": false,
+          "secret": false
+        }
+      ]
+    }
+  ],
+  "blog": [
+    {
+      
+    }
+  ]
+}
